@@ -1,4 +1,4 @@
-# MAS - Multi-Agent Simulation
+# Mindcraft
 
 An interactive AI-driven multi-agent simulation where LLM-powered agents cooperate in a procedurally-generated 2D world to gather resources, farm, build structures, trade, and survive. Agents use language models (Claude, OpenAI, or Ollama) to make intelligent decisions in real-time.
 
